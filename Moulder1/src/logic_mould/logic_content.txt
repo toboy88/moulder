@@ -1,0 +1,3 @@
+void display_text(QLineEdit *textEdit) {
+	textEdit->setPlainText("Hello World!");
+}

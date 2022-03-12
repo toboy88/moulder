@@ -1,0 +1,5 @@
+gitignore:
+git rm --cached -r .
+git rm --cached -f -r .
+git add .
+git commit -m "enable gitignore"

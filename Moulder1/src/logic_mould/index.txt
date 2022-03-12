@@ -1,0 +1,2 @@
+A1,display_text,logic_content.txt,1,5;
+A2,show_hello,logic_content.txt,6,10;
