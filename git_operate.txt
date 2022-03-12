@@ -3,3 +3,10 @@ git rm --cached -r .
 git rm --cached -f -r .
 git add .
 git commit -m "enable gitignore"
+
+gitoperate:
+git pull
+git push origin main
+git branch
+git add .
+git commit -m "message"
